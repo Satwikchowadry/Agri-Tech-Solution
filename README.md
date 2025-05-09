@@ -3,6 +3,12 @@
 AgriTech Solutions is a full-stack web application designed to assist farmers and gardeners in selecting optimal crops (vegetables, flowers, herbs) based on season, soil type, and weather. It provides crop info, task reminders, and real-time weather updates for smarter farming decisions.
 
 ---
+
+## 🎥 Video Demonstration
+
+> 🔗 [Watch the Demo on YouTube](https://drive.google.com/file/d/1YaRJ7f1MUM64AaZ0KHyy9qpHFGcfd7TH/view?usp=sharing)
+>
+> 
 ## 📄 Project Documents
 
 
