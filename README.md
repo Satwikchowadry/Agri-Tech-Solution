@@ -7,7 +7,7 @@ AgriTech Solutions is a full-stack web application designed to assist farmers an
 
 
 - [📘 Software Requirements Specification (SRS)](https://github.com/Satwikchowadry/Agri-Tech-Solution/blob/main/Project%20Software%20Design%20Specification.pdf)
-- [🛠️ Software Design Specification (SDS)](./Project%20Software%20Design%20Specification.pdf)
+- [🛠️ Software Design Specification (SDS)](https://github.com/Satwikchowadry/Agri-Tech-Solution/blob/main/Project%20Software%20Design%20Specification.pdf)
 
 
 
